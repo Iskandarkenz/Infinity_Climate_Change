@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Donasi 2, Metode Pembayaran, Proses Pembayaran"
+rootProject.name = "project_aplikasi_ndp"
 include ':app'
