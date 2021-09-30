@@ -47,7 +47,7 @@
         android:layout_height="243dp"
         android:layout_marginTop="36dp"
         android:text="INFINITY CLIMATE CHANGE"
-        android:textColor="@color/black"
+        android:textColor="@color/teal_200"
         android:textSize="70dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
